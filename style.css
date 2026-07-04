@@ -3,7 +3,22 @@ body{
     background-repeat: repeat;
 }
 
+h1{
+    background-color: white;
+    color: black;
+}
+
+h2{
+    background-color: white;
+    color: black;
+}
+
 p{
+    background-color: white;
+    color: black;
+}
+
+.what{
     background-color: white;
     color: black;
 }
